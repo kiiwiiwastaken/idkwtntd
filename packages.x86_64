@@ -1,0 +1,14 @@
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+base
+linux
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+lxde
+xorg
+xorg-apps
+xterm
+xorg-xinit
+firefox
+networkmanager

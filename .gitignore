@@ -1,0 +1,3 @@
+## Ignoring output and temp directory
+temp/
+out/
