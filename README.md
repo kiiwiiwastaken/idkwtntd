@@ -9,7 +9,7 @@ This is my Linux distro called "I Don't Know What To Name This Distro". It's bas
 run the following commands:
 
 ```
-git clone https://git.sr.ht/~kiiwiiwastaken/idkwtntd
+git clone https://github.com/kiiwiiwastaken/idkwtntd
 
 cd idkwtntd
 
