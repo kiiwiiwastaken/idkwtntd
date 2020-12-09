@@ -15,7 +15,7 @@ cd idkwtntd
 
 mkdir work out
 
-sudo mkarchiso -v -w work -o out ./
+sudo ./make.sh
 ```
 
 The iso file will be in `/path/to/idkwtntd/out/`

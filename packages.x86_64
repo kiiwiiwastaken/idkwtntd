@@ -5,7 +5,7 @@ linux
 mkinitcpio
 mkinitcpio-archiso
 syslinux
-lxde
+xfce4
 xorg
 xorg-apps
 xterm
