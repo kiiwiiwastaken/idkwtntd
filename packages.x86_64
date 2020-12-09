@@ -1,5 +1,6 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
+arch-install-scripts
 base
 linux
 mkinitcpio
@@ -18,3 +19,6 @@ zstd
 unzip
 p7zip
 unrar
+nano
+vim
+wget
